@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hammerTesting", "hammerTesting\hammerTesting.csproj", "{DCE94E10-608D-4BEE-871B-12F700531709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restful", "ConsoleApplication1\Restful.csproj", "{89A6F427-773D-4BCD-8464-43B117491943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{23CBA674-27A7-4DE4-9584-BBD2D9DE11F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE94E10-608D-4BEE-871B-12F700531709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE94E10-608D-4BEE-871B-12F700531709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE94E10-608D-4BEE-871B-12F700531709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE94E10-608D-4BEE-871B-12F700531709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A6F427-773D-4BCD-8464-43B117491943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A6F427-773D-4BCD-8464-43B117491943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A6F427-773D-4BCD-8464-43B117491943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A6F427-773D-4BCD-8464-43B117491943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CBA674-27A7-4DE4-9584-BBD2D9DE11F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CBA674-27A7-4DE4-9584-BBD2D9DE11F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CBA674-27A7-4DE4-9584-BBD2D9DE11F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CBA674-27A7-4DE4-9584-BBD2D9DE11F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
